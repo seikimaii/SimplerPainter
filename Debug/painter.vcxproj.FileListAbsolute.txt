@@ -1,0 +1,11 @@
+C:\Users\Seikimaii\source\repos\painter\Debug\painter.vcxproj.CopyComplete
+C:\Users\Seikimaii\source\repos\painter\Debug\painter.exe
+C:\Users\Seikimaii\source\repos\painter\Debug\sfml-graphics-d-2.dll
+C:\Users\Seikimaii\source\repos\painter\Debug\sfml-window-d-2.dll
+C:\Users\Seikimaii\source\repos\painter\Debug\sfml-system-d-2.dll
+C:\Users\Seikimaii\source\repos\painter\Debug\freetyped.dll
+C:\Users\Seikimaii\source\repos\painter\Debug\zlibd1.dll
+C:\Users\Seikimaii\source\repos\painter\Debug\bz2d.dll
+C:\Users\Seikimaii\source\repos\painter\Debug\libpng16d.dll
+C:\Users\Seikimaii\source\repos\painter\Debug\brotlidec.dll
+C:\Users\Seikimaii\source\repos\painter\Debug\brotlicommon.dll
